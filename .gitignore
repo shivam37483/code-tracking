@@ -1,0 +1,17 @@
+
+# syncforge - Only track specific directories
+/*
+
+# Allow syncforge directories
+!/stats/
+!/changes/
+!/.gitignore
+!/.gitkeep
+!/.github/
+!/.github/workflows/
+
+# Ensure no workspace files are tracked
+*.workspace
+*.code-workspace
+.vscode/
+node_modules/
