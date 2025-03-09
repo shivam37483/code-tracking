@@ -1,0 +1,51 @@
+{
+    "index_created": "2025-03-09 11:40",
+    "build_revision": "87767e0",
+    "path": "https://collector.torproject.org",
+    "directories": [
+      {
+        "path": "archive",
+        "directories": [
+          {
+            "path": "bridge-descriptors",
+            "directories": [
+              {
+                "path": "extra-infos",
+                "files": [
+                  {
+                    "path": "bridge-extra-infos-2008-05.tar.xz",
+                    "size": 377644,
+                    "last_modified": "2016-09-04 09:21",
+                    "types": [
+                      "bridge-extra-info 1.3"
+                    ],
+                    "first_published": "2008-05-13 15:21",
+                    "last_published": "2008-05-31 23:09",
+                    "sha256": "aDD2q7uNGOM+WuH67+nTd7rvFN4P580xPAmXYtqxr2I="
+                  },
+                  {
+                    "path": "bridge-extra-infos-2008-06.tar.xz",
+                    "size": 600484,
+                    "last_modified": "2016-09-04 09:21",
+                    "types": [
+                      "bridge-extra-info 1.3"
+                    ],
+                    "first_published": "2008-06-01 00:23",
+                    "last_published": "2008-06-30 23:29",
+                    "sha256": "VLdUu98Fz8RKTFL13ftA3WJ5lsDJQBRrh/KGLOYAUqk="
+                  },
+                  {
+                    "path": "bridge-extra-infos-2008-07.tar.xz",
+                    "size": 716320,
+                    "last_modified": "2016-09-04 09:21",
+                    "types": [
+                      "bridge-extra-info 1.3"
+                    ],
+                    "first_published": "2008-07-01 05:06",
+                    "last_published": "2008-07-31 23:59",
+                    "sha256": "NNj6mBr/aWDdNZmmPYSERn5pjQh0g04Xu8gUi6kMVds="
+                  },
+                  {
+                    "path": "bridge-extra-infos-2008-08.tar.xz",
+                    "size": 1083244,
+... (truncated for brevity)
